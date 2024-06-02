@@ -1,6 +1,6 @@
 # Zenburn M Colorscheme
 
-A modified, Lua version of of Zenburn colorscheme for Neovim.
+A modified, Lua version of Zenburn colorscheme for Neovim.
 
 ### Plugin Support
 

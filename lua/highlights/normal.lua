@@ -26,7 +26,7 @@ return {
 	SpecialKey     = {fg = p.zen_fg},
 	Delimiter      = {fg = p.zen_fg},
 	Directory      = {fg = p.zen_yellow},
-	Search         = {fg = p.zen_fg1, bg = p.zen_bg2},
+	Search         = {fg = p.zen_fg, bg = p.zen_bg3},
 	Fold           = {fg = p.zen_fg, bg = p.zen_bg},
 	FoldColumn     = {fg = p.zen_fg, bg = p.zen_bg},
 	CursorLineFold = {fg = p.zen_fg, bg = p.zen_bg},
