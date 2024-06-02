@@ -1,0 +1,5 @@
+return {
+	"normal",
+	"filetypes",
+	"neogit",
+}
