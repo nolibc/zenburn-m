@@ -2,6 +2,16 @@
 
 A modified, Lua version of Zenburn colorscheme for Neovim.
 
+### with Lazy:
+
+```lua
+return {
+    "rainswolves/zenburn-m",
+    lazy = false,
+    priority = 1000,
+}
+```
+
 ### Plugin Support
 
 -   Neogit
