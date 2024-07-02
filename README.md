@@ -6,7 +6,7 @@ A modified, Lua version of Zenburn colorscheme for Neovim.
 
 ```lua
 return {
-    "framesper/zenburn-m",
+    "bunkrat/zenburn-m",
     lazy = false,
     priority = 1000,
 }
