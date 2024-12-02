@@ -1,20 +1,13 @@
 # Zenburn M Colorscheme
 
-A modified, Lua version of Zenburn colorscheme for Neovim.
+Modified Zenburn Theme
 
-### with Lazy:
-
-```lua
-return {
-    "bunkrat/zenburn-m",
-    lazy = false,
-    priority = 1000,
-}
-```
+![image](./zenburnm.png)
 
 ### Plugin Support
 
--   Neogit
+- [Neogit](https://github.com/NeogitOrg/neogit)
+- [Zen-Mode](https://github.com/folke/zen-mode.nvim)
 
 ### License
 

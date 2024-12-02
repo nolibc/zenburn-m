@@ -8,10 +8,8 @@ local function setup_namespace()
 end
 
 function M.apply_highlight(mod)
-	local set_hl = vim.api.nvim_set_hl
-
 	for name, value in pairs(require(mod)) do
-		set_hl(0, name, value)
+		vim.api.nvim_set_hl(0, name, value)
 	end
 end
 

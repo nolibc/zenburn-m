@@ -59,5 +59,6 @@ return {
 	Boolean        = {fg = p.zen_fg },
     Character      = {fg = p.zen_red},
     Float          = {fg = p.zen_fg},
+    NormalFloat    = {bg = p.zen_bg03},
     Include        = {fg = p.zen_red},
 }
